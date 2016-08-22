@@ -6,6 +6,6 @@
 3. virtualenv env
 4. source env/bin/activate
 5. pip install Flask
-6. copy config.py.template config.py
+6. cp config.py.template config.py
 7. modify the config.py file with your aliyun app_id and app_secret string, save it.
 8. python run.py
