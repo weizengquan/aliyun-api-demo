@@ -1,6 +1,8 @@
+# copy this file and rename it to config.py
+# then modify the app_key and app_secret to which aliyun has given to you.
 ALIYUN_CONFIG = {
     'HOST': 'https://dm-53.data.aliyun.com',
     'URL': '/rest/160601/ocr/ocr_vehicle.json',
-    'APP_KEY': '23438379',
-    'APP_SECRET': '682c9dccd1e0f1a07141b2e12b12542d'
+    'APP_KEY': '', 
+    'APP_SECRET': ''
 }

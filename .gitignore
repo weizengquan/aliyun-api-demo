@@ -1,6 +1,6 @@
 *.pyc
 __pycache__
 env
-/static
+/static/uploads/*
 .DS_Store
 config.py
