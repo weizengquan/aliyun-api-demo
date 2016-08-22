@@ -1,0 +1,6 @@
+ALIYUN_CONFIG = {
+    'HOST': 'https://dm-53.data.aliyun.com',
+    'URL': '/rest/160601/ocr/ocr_vehicle.json',
+    'APP_KEY': '23438379',
+    'APP_SECRET': '682c9dccd1e0f1a07141b2e12b12542d'
+}
