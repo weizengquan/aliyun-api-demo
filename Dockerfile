@@ -1,8 +1,7 @@
 FROM ubuntu:latest
 RUN apt-get update
 RUN apt-get upgrade -y
-RUN apt-get install wget build-essential libwrap0-dev libssl-dev python python-distutils-extra libc-ares-dev uuid-dev libcurl4-openssl-dev libmysqlclient-dev python-pip -y
-#RUN easy_install pip==1.2.1
+RUN apt-get install python python-pip -y
 
 # Download and install Flask framework:
 RUN pip install flask
